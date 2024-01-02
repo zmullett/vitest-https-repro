@@ -1,0 +1,18 @@
+{
+  "name": "vitest-https",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.2",
+    "@vitest/browser": "^1.1.1",
+    "playwright": "^1.40.1",
+    "vitest": "^1.1.1"
+  }
+}
